@@ -1,4 +1,4 @@
-<h1>Hi, I'm Preet, an <a href="https://linkedin.com/in/PareetjotThiara">IT Professional</a>☺</h1>
+<h1>Hi, I'm Preet, an <a href="https://linkedin.com/in/Pareetjot-Thiara">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
