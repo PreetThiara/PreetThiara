@@ -33,12 +33,29 @@ Currently building hands-on labs to strengthen real-world skills in:
 ## Featured Lab Projects
 
 ### Active Directory Lab
-Configured a domain controller and implemented group policies and file sharing permissions.
+Configured and Active Directory environment and performed common administrative tasks.
 
-Skills demonstrated:
-- Active Directory
-- Group Policy
-- Windows Server Administration
+Repository:
+https://github.com/PreetThiara/Active_Directory
+
+**Active Directory Domain Join**
+Joined client machines to an Active Directory domain and verified domain authentication.
+
+Repository:
+https://github.com/PreetThiara/AD_Domain_Join
+
+**Active Directory File Services**
+Configured shared folders and NTFS permissions for domain users.
+
+Repository:
+https://github.com/PreetThiara/AD_File_Services
+
+**Group Policy Configuration**
+Implemented and tested group policy settings within an Active Directory environment.
+
+Repository:
+https://github.com/PreetThiara/AD_GPO
+- 
 
 ---
 
@@ -50,6 +67,15 @@ Skills demonstrated:
 - Switch configuration
 - Device hardening
 
+Repository:
+https://github.com/PreetThiara/Networking_Switch_Config
+
+**Basic Networking Lab**
+
+Hands-on networking lab demonstrating basic LAN setup and device connectivity
+
+Repository:
+https://github.com/PreetThiara/Networking_Lab
 ---
 
 ### Azure Network Security Lab (in the works)
