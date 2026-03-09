@@ -55,7 +55,7 @@ Implemented and tested group policy settings within an Active Directory environm
 
 Repository:
 https://github.com/PreetThiara/AD_GPO
-- 
+
 
 ---
 
@@ -76,6 +76,7 @@ Hands-on networking lab demonstrating basic LAN setup and device connectivity
 
 Repository:
 https://github.com/PreetThiara/Networking_Lab
+
 ---
 
 ### Azure Network Security Lab (in the works)
