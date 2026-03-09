@@ -1,71 +1,73 @@
-# Hi, I'm Pareetjot Thiara 👋
+# Pareetjot Thiara
 
-IT Infrastructure | Linux | Networking | Cybersecurity
+IT Infrastructure | Linux | Networking | Security
 
-I am an IT professional focused on infrastructure engineering, networking, Linux administration, and cybersecurity. I build hands-on labs and document them here to strengthen real-world skills and demonstrate practical experience.
+IT professional focused on infrastructure engineering, Linux administration, networking, and cybersecurity.
+
+Currently building hands-on labs to strengthen real-world skills in:
+
+- Linux system administration
+- Network engineering
+- Active Directory
+- Cloud infrastructure
+- Security monitoring
 
 ---
 
 ## Certifications
 
-- RHCSA (Red Hat Certified System Administrator)
+- RHCSA
 - CCNA
 - CompTIA Security+
 - CySA+
 - PenTest+
 - SSCP
+- Comptia Network+
+- Comptia A+
+- ITIL v4 Foundation
+- LPI Linux Essentials
+- Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
-## Featured Projects
+## Featured Lab Projects
 
-### Help Desk Ticketing System (osTicket)
-
-Configured and deployed an osTicket help desk environment.
-
-Topics covered:
-- Ticket lifecycle management
-- User and agent roles
-- Ticket configuration
-- Post-installation setup
-
-Projects:
-- osTicket: Prerequisites and Installation
-- osTicket: Post-installation Configuration
-- osTicket: Ticket Lifecycle Examples
-
----
-
-### Microsoft Azure Labs (in the works)
-
-Hands-on labs using Azure virtual machines to simulate real infrastructure environments.
-
-Projects:
-- Configuring On-Premises Active Directory within Azure VMs
-- Network Security Groups (NSGs) and Inspecting Network Protocols
+### Active Directory Lab
+Configured a domain controller and implemented group policies and file sharing permissions.
 
 Skills demonstrated:
-- Azure networking
-- Virtual machines
 - Active Directory
-- Network security
+- Group Policy
+- Windows Server Administration
+
+---
+
+### Cisco Networking Lab
+Configured a Cisco switch using console access and basic security hardening.
+
+Skills demonstrated:
+- Cisco CLI
+- Switch configuration
+- Device hardening
+
+---
+
+### Azure Network Security Lab (in the works)
+Configured Network Security Groups and analyzed traffic between virtual machines.
+
+Skills demonstrated:
+- Azure Networking
+- NSGs
+- Traffic inspection
 
 ---
 
 ## Technologies & Tools
 
-Linux | Red Hat | Cisco | Active Directory | Azure | Networking | Wireshark | Windows Server
+Linux | Red Hat | Cisco | Active Directory | Azure | Wireshark | Networking | Security
 
 ---
 
 ## Current Focus
 
-Currently studying for the **Red Hat Certified Engineer (RHCE)** certification and expanding skills in:
-
-- Linux automation with Ansible
-- Infrastructure automation
-- Linux server administration
-
-
-
-
+Currently preparing for the **Red Hat Certified Engineer (RHCE)** certification and expanding skills in **Linux automation using Ansible**.
