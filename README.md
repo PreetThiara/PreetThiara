@@ -99,7 +99,12 @@ Skills demonstrated:
 - User and Permission management
 - Log analysis and troubleshooting
 
+#### Linux SSH Hardening
+
+Hardened an OpenSSH server by disabling direct root login, implementing a non-standard SSH port, restricting user access, configuring session timeouts, and troubleshooting SELinux port binding issues.
+
 Repository:
+https://github.com/PreetThiara/linux-ssh-hardening
 
 ---
 
