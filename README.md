@@ -29,7 +29,7 @@ Currently focused on expanding automation skills with Ansible while developing p
 
 ## Linux Administration
 
-Hands-on Linux administration projects focused on system hardening, troubleshooting, service deployment, and automation using Rocky Linux and Red Hat Enterprise Linux.
+Hands-on Linux administration projects focused on system hardening, automation, service deployment, troubleshooting, and infrastructure management using Rocky Linux and Red Hat Enterprise Linux.
 
 ### Skills Demonstrated
 
@@ -49,12 +49,46 @@ Hands-on Linux administration projects focused on system hardening, troubleshoot
 - DNS Administration
 - Mail Server Administration
 
+---
+
+### Ansible Linux Baseline Configuration
+
+Automated baseline Linux server configuration across multiple Rocky Linux systems using Ansible. The project provisions administrative access, installs common packages, hardens SSH, configures firewall rules, deploys NGINX, and creates a dynamic MOTD using Jinja2 templates.
+
+**Skills Demonstrated**
+
+- Ansible Automation
+- Infrastructure as Code (IaC)
+- SSH Hardening
+- User Management
+- Package Management
+- Firewalld Administration
+- NGINX Deployment
+- Jinja2 Templating
+- Idempotent Configuration Management
+
+**Repository**
+
+https://github.com/PreetThiara/ansible-linux-baseline
+
+---
+
 ### Linux SSH Hardening
 
 Hardened an OpenSSH server by disabling direct root login, implementing a non-standard SSH port, restricting user access, configuring session timeouts, and troubleshooting SELinux port binding issues while maintaining SELinux in enforcing mode.
 
-**Repository:**  
-[linux-ssh-hardening](https://github.com/PreetThiara/linux-ssh-hardening)
+**Skills Demonstrated**
+
+- SSH Hardening
+- SELinux Troubleshooting
+- Firewalld Administration
+- User Access Control
+- Security Hardening
+- Linux Administration
+
+**Repository**
+
+https://github.com/PreetThiara/linux-ssh-hardening
 
 ---
 
