@@ -193,13 +193,18 @@ Implemented and tested Group Policy Objects (GPOs) within an Active Directory en
 
 ---
 
-## Current Focus
+### Current Focus
 
-- Building Linux administration and automation projects using Rocky Linux and Ansible
-- Expanding infrastructure automation skills through Ansible playbooks and system administration workflows
-- Studying for Microsoft Azure Administrator (AZ-104)
-- Developing hands-on experience with Docker, shell scripting, DNS, web services, and enterprise Linux administration
-- Strengthening troubleshooting and operational skills through real-world lab environments
+Currently expanding Linux automation and infrastructure management skills through hands-on projects involving:
+
+- Ansible Automation
+- Docker
+- Bash Scripting
+- Web and DNS Services
+- Linux Security Hardening
+- Infrastructure as Code (IaC)
+
+Actively building and documenting practical Linux administration projects to demonstrate real-world system administration, automation, troubleshooting, and service deployment skills.
 
 ---
 
