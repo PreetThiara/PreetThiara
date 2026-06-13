@@ -1,119 +1,178 @@
 # Pareetjot Thiara
 
-IT Infrastructure | Linux | Networking | Security
+## Linux Administration | Automation | Networking | Infrastructure
 
-IT professional with a strong foundation in Red Hat Enterprise Linux and infrastructure operations. RHCE, RHCSA, and CCNA certified with hands-on experience building and documenting projects involving system hardening, service deployment, automation, troubleshooting and network administration. Currently focused on expanding automation skills with Ansible while developing practical experience with Docker, shell scripting, web services and enterprise linux administration. Passionate about learning through hands on projects that emphasize reliability, security and operational efficiency.
+IT professional with a strong foundation in Red Hat Enterprise Linux and infrastructure operations. RHCE, RHCSA, and CCNA certified with hands-on experience building and documenting projects involving system hardening, service deployment, automation, troubleshooting, and network administration.
 
-Currently building hands-on labs to strengthen real-world skills in:
-
-- Linux system administration
-- Network engineering
-- Active Directory
-- Cloud infrastructure
-- Security monitoring
+Currently focused on expanding automation skills with Ansible while developing practical experience with Docker, shell scripting, web services, and enterprise Linux administration. Passionate about learning through hands-on projects that emphasize reliability, security, and operational efficiency.
 
 ---
 
 ## Certifications
 
-- RHCE
-- RHCSA
-- CCNA
+- Red Hat Certified Engineer (RHCE)
+- Red Hat Certified System Administrator (RHCSA)
+- Cisco Certified Network Associate (CCNA)
+- SSCP (ISC²)
+- CompTIA CySA+
+- CompTIA PenTest+
 - CompTIA Security+
-- CySA+
-- PenTest+
-- SSCP
-- Comptia Network+
-- Comptia A+
+- CompTIA Network+
+- CompTIA A+
 - ITIL v4 Foundation
 - LPI Linux Essentials
 - Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
-## Featured Lab Projects
+# Featured Lab Projects
 
-### Active Directory Lab
-Configured and Active Directory environment and performed common administrative tasks.
+## Linux Administration
 
-Repository:
-https://github.com/PreetThiara/Active_Directory
+Hands-on Linux administration projects focused on system hardening, troubleshooting, service deployment, and automation using Rocky Linux and Red Hat Enterprise Linux.
 
-**Active Directory Domain Join**
-Joined client machines to an Active Directory domain and verified domain authentication.
+### Skills Demonstrated
 
-Repository:
-https://github.com/PreetThiara/AD_Domain_Join
-
-**Active Directory File Services**
-Configured shared folders and NTFS permissions for domain users.
-
-Repository:
-https://github.com/PreetThiara/AD_File_Services
-
-**Group Policy Configuration**
-Implemented and tested group policy settings within an Active Directory environment.
-
-Repository:
-https://github.com/PreetThiara/AD_GPO
-
-
----
-
-### Cisco Networking Lab
-Configured a Cisco switch using console access and basic security hardening.
-
-Skills demonstrated:
-- Cisco CLI
-- Switch configuration
-- Device hardening
-
-Repository:
-https://github.com/PreetThiara/Networking_Switch_Config
-
-**Basic Networking Lab**
-
-Hands-on networking lab demonstrating basic LAN setup and device connectivity
-
-Repository:
-https://github.com/PreetThiara/Networking_Lab
-
----
-
-### Linux Administration
-Hands-on Linux administration projects focused on system hardening, service deployment, troubleshooting, and automation using Rocky Linux and Red Hat Enterprise Linux.
-
-Skills demonstrated:
 - Linux Administration
-- Red Hat Enterprise Linux
+- Red Hat Enterprise Linux (RHEL)
 - Rocky Linux
-- Ansible Automation
-- Docker
 - SSH Hardening
 - SELinux Administration and Troubleshooting
-- SystemD service management
-- Firewalld and Network Security
-- Apache Web server configuration
-- Mail server Administration
+- Firewalld Administration
+- Systemd Service Management
+- User and Permission Management
+- Log Analysis and Troubleshooting
 - Bash Scripting
-- User and Permission management
-- Log analysis and troubleshooting
+- Ansible Automation
+- Docker
+- Apache Web Server Administration
+- DNS Administration
+- Mail Server Administration
 
-#### Linux SSH Hardening
+### Linux SSH Hardening
 
-Hardened an OpenSSH server by disabling direct root login, implementing a non-standard SSH port, restricting user access, configuring session timeouts, and troubleshooting SELinux port binding issues.
+Hardened an OpenSSH server by disabling direct root login, implementing a non-standard SSH port, restricting user access, configuring session timeouts, and troubleshooting SELinux port binding issues while maintaining SELinux in enforcing mode.
 
-Repository:
-https://github.com/PreetThiara/linux-ssh-hardening
+**Repository:**  
+[linux-ssh-hardening](https://github.com/PreetThiara/linux-ssh-hardening)
+
+---
+
+## Cisco Networking
+
+### Cisco Switch Configuration
+
+Configured a Cisco switch using console access and implemented foundational security hardening practices.
+
+#### Skills Demonstrated
+
+- Cisco IOS CLI
+- Switch Configuration
+- Port Security
+- Device Hardening
+- VLAN Configuration
+- Connectivity Verification
+- Basic Network Troubleshooting
+
+**Repository:**  
+[Networking_Switch_Config](https://github.com/PreetThiara/Networking_Switch_Config)
+
+### Basic Networking Lab
+
+Built and validated a small LAN environment demonstrating network fundamentals and host connectivity.
+
+**Repository:**  
+[Networking_Lab](https://github.com/PreetThiara/Networking_Lab)
+
+---
+
+## Active Directory
+
+### Active Directory Lab
+
+Configured an Active Directory environment and performed common administrative tasks including user management, organizational units, and authentication.
+
+**Repository:**  
+[Active_Directory](https://github.com/PreetThiara/Active_Directory)
+
+### Active Directory Domain Join
+
+Joined client systems to an Active Directory domain and validated centralized authentication.
+
+**Repository:**  
+[AD_Domain_Join](https://github.com/PreetThiara/AD_Domain_Join)
+
+### Active Directory File Services
+
+Configured shared folders and NTFS permissions for domain users.
+
+**Repository:**  
+[AD_File_Services](https://github.com/PreetThiara/AD_File_Services)
+
+### Group Policy Configuration
+
+Implemented and tested Group Policy Objects (GPOs) within an Active Directory environment.
+
+**Repository:**  
+[AD_GPO](https://github.com/PreetThiara/AD_GPO)
 
 ---
 
 ## Technologies & Tools
 
-Linux | Red Hat | Cisco | Active Directory | Azure | Wireshark | Networking | Security
+### Operating Systems
+- Red Hat Enterprise Linux
+- Rocky Linux
+- Windows Server
+
+### Automation & Scripting
+- Ansible
+- Bash
+
+### Networking
+- Cisco IOS
+- TCP/IP
+- VLANs
+- DNS
+- DHCP
+
+### Infrastructure
+- Active Directory
+- Docker
+- Apache
+- SSH
+- Systemd
+- Firewalld
+
+### Security
+- SELinux
+- Access Control
+- Security Hardening
+- Log Analysis
+
+### Tools
+- Git
+- GitHub
+- Wireshark
+- VMware
+- VirtualBox
 
 ---
 
 ## Current Focus
 
-Currently preparing for the **Red Hat Certified Engineer (RHCE)** certification and expanding skills in **Linux automation using Ansible**.
+- Building Linux administration and automation projects using Rocky Linux and Ansible
+- Expanding infrastructure automation skills through Ansible playbooks and system administration workflows
+- Studying for Microsoft Azure Administrator (AZ-104)
+- Developing hands-on experience with Docker, shell scripting, DNS, web services, and enterprise Linux administration
+- Strengthening troubleshooting and operational skills through real-world lab environments
+
+---
+
+## Connect With Me
+
+**LinkedIn:**  
+https://www.linkedin.com/in/pareetjot-thiara
+
+**GitHub:**  
+https://github.com/PreetThiara
