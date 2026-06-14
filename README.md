@@ -92,6 +92,28 @@ https://github.com/PreetThiara/linux-ssh-hardening
 
 ---
 
+### Linux iptables Firewall Hardening Lab
+
+Configured and validated a host-based firewall on Rocky Linux using iptables. Implemented a default-deny security model, allowing only required services while restricting unauthorized access. Configured SSH, HTTP, ICMP, and FTP access controls, created explicit deny rules for Telnet, validated service accessibility, and persisted firewall rules across reboots.
+
+**Skills Demonstrated**
+
+- Linux Firewall Administration
+- iptables Configuration
+- Network Security Hardening
+- Stateful Packet Filtering
+- Connection Tracking (conntrack)
+- Access Control Management
+- Service Validation & Testing
+- Network Troubleshooting
+- Security Best Practices
+
+**Repository**
+
+https://github.com/PreetThiara/linux-iptables-firewall-hardening-lab
+
+---
+
 ## Cisco Networking
 
 ### Cisco Switch Configuration
