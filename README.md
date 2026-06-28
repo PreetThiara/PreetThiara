@@ -49,6 +49,31 @@ Hands-on Linux administration projects focused on system hardening, automation, 
 - DNS Administration
 - Mail Server Administration
 
+### Ansible Linux Monitoring Stack
+
+Automated deployment of a centralized Linux monitoring solution across multiple Rocky Linux servers using Ansible, Prometheus, and Prometheus Node Exporter. The project provisions monitoring services, generates Linux health reports using Jinja2 templates, configures systemd services, and validates monitoring through the Prometheus web interface.
+
+**Skills Demonstrated**
+
+- Ansible Automation
+- Linux Administration
+- Prometheus
+- Node Exporter
+- Infrastructure Monitoring
+- systemd Service Management
+- Jinja2 Templates
+- YAML
+- SSH
+- Infrastructure as Code (IaC)
+- Multi-host Configuration Management
+- Service Deployment
+- Linux Networking
+- Troubleshooting
+
+**Repository**
+
+https://github.com/PreetThiara/ansible-linux-monitoring-stack
+
 ---
 
 ### Ansible Linux Baseline Configuration
